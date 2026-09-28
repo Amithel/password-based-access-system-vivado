@@ -1,0 +1,12 @@
+# Ignore Vivado build and temporary directories
+*.runs/
+*.cache/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.gen/
+
+# Ignore Vivado log files
+*.jou
+*.log
+*.str
